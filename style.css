@@ -2,9 +2,20 @@
     background-color: aqua;
 }
 h1 {
+    background-color: blue;
+    color: aliceblue;
     text-align: center;
     font-size: 50px;
 }
 p {
+    font-size: 30px;
+    text-align: center;
+}
+ul, li {
+    font-size: 20px;
+    color: gray;
+}
+.ul {
+    background-color: wheat;
     font-size: 30px;
 }
